@@ -1,0 +1,20 @@
+,,,
+,Data source:,Demographic_File.csv,
+,,,
+,Variable,Type,Label
+1,Age_years_int,Numeric,"Age in years as of the enrollment visit, calculated using birth date supplied by EHR."
+2,Gender,Categorical,"Gender, as reported by the participant at consent. (Male & Female)"
+3,IsHFTypeHFimpEF,Boolean,"Is heart failure type heart failrue with improved ejection fraction? (1 = yes, 0 = no)"
+4,IsHFTypeHFmrEF,Boolean,"Is heart failure type heart failure with mildly reduced ejection fraction? (1 = yes, 0 = no)"
+5,IsHFTypeHFpEF,Boolean,"Is heart failure type heart failure with reduced ejection fraction? (1 = yes, 0 = no)"
+6,IsHFTypeHFrEF,Boolean,"Is heart failure type heart failure with reduced ejection fraction? (1 = yes, 0 = no)"
+7,NYHAClass,,New York Heart Association (NYHA) Class 2 or 3
+8,IsNYHAClass2,Boolean,"Is New York Heart Association (NYHA) Class 2? (1 = yes, 0 = no)"
+9,IsNYHAClass3,Boolean,"Is New York Heart Association (NYHA) Class 3? (1 = yes, 0 = no)"
+10,Race,Categorical,"Race, as reported by the participant at consent. "
+11,IsRaceAsian,Boolean,"Is Race Asian? (1 = yes, 0 = no)"
+12,IsRaceBlackorAfricanAmerican,Boolean,"Is Race Black or African American? (1 = yes, 0 = no)"
+13,IsRaceWhite,Boolean,"Is Race White? (1 = yes, 0 = no)"
+14,ParticipantIdentifier,Numeric,An ID assigned to the participant at consent.
+15,KCCQ_SF,Numeric,KCCQ Symptom Frequency Score (0 - 100)
+16,KCCQ_OS,Numeric,KCCQ Overall Summary Score (0 - 100)
