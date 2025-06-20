@@ -16,5 +16,8 @@
 12,IsRaceBlackorAfricanAmerican,Boolean,"Is Race Black or African American? (1 = yes, 0 = no)"
 13,IsRaceWhite,Boolean,"Is Race White? (1 = yes, 0 = no)"
 14,ParticipantIdentifier,Numeric,An ID assigned to the participant at consent.
-
-
+15,HasAfib,Boolean,"Does Participant has Atrial fibrillation or flutter? (1 = yes, 0 = no)"	
+16,HasCAD,Boolean,"Does Participant has coronary artery disease? (1 = yes, 0 = no)"	
+17,HasCKD,Boolean,"Does Participant has chronic kidney disease? (1 = yes, 0 = no)"	
+18,HasDiabetes,Boolean,"Does Participant has diabetes mellitus (type 1 or 2)? (1 = yes, 0 = no)"		
+19,HasPVD,Boolean,"Does Participant has peripheral vascular disease? (1 = yes, 0 = no)"	
