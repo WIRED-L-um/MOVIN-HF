@@ -16,5 +16,5 @@
 12,IsRaceBlackorAfricanAmerican,Boolean,"Is Race Black or African American? (1 = yes, 0 = no)"
 13,IsRaceWhite,Boolean,"Is Race White? (1 = yes, 0 = no)"
 14,ParticipantIdentifier,Numeric,An ID assigned to the participant at consent.
-15,KCCQ_SF,Numeric,KCCQ Symptom Frequency Score (0 - 100)
-16,KCCQ_OS,Numeric,KCCQ Overall Summary Score (0 - 100)
+
+
